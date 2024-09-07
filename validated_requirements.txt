@@ -1,0 +1,5 @@
+pyawr==22.1.2
+pywin32==306
+mopa==0.2.5b0
+paxplot==0.1.4b2
+packaging==21.3

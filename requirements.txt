@@ -1,0 +1,5 @@
+pyawr
+pywin32
+mopa
+paxplot
+packaging==21.3
